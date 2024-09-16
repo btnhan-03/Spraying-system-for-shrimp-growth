@@ -1,0 +1,114 @@
+Change component parameters: Designator = "C1"; Footprint = "CP2/5"; UniqueID = "\IBMCHMDG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "VALUE"; Value = "C?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "CP2/5"; UniqueID = "\WTBIPNAE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "VALUE"; Value = "C?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11"; Footprint = "CP2/5"; UniqueID = "\HDHKFMYD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "VALUE"; Value = "C?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22"; Footprint = "CP2/5"; UniqueID = "\AAKADQVY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "VALUE"; Value = "C?"; VariantName = "[No Variations]"
+Added Component: Designator=Cn1(CN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cn2(CN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cn3(CN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=nut2(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=nut3(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=nut.1(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=Rb1(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=Rb2(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=Rb3(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=rr1(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=rr2(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=rr3(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cn1-1
+Added Pin To Net: NetName=GND Pin=Cn2-1
+Added Pin To Net: NetName=GND Pin=Cn3-1
+Added Pin To Net: NetName=VCC Pin=Rb1-2
+Added Pin To Net: NetName=VCC Pin=Rb2-2
+Added Pin To Net: NetName=VCC Pin=Rb3-2
+Added Pin To Net: NetName=GND Pin=rr1-2
+Added Pin To Net: NetName=GND Pin=rr2-2
+Added Pin To Net: NetName=GND Pin=rr3-2
+Added Pin To Net: NetName=NetCn1_2 Pin=Cn1-2
+Added Pin To Net: NetName=NetCn1_2 Pin=mega2560-D43
+Added Pin To Net: NetName=NetCn1_2 Pin=nut.1-1
+Added Pin To Net: NetName=NetCn1_2 Pin=Rb1-1
+Added Net: Name=NetCn1_2
+Added Pin To Net: NetName=NetCn2_2 Pin=Cn2-2
+Added Pin To Net: NetName=NetCn2_2 Pin=mega2560-D41
+Added Pin To Net: NetName=NetCn2_2 Pin=nut2-1
+Added Pin To Net: NetName=NetCn2_2 Pin=Rb2-1
+Added Net: Name=NetCn2_2
+Added Pin To Net: NetName=NetCn3_2 Pin=Cn3-2
+Added Pin To Net: NetName=NetCn3_2 Pin=mega2560-D39
+Added Pin To Net: NetName=NetCn3_2 Pin=nut3-1
+Added Pin To Net: NetName=NetCn3_2 Pin=Rb3-1
+Added Net: Name=NetCn3_2
+Added Pin To Net: NetName=Netnut2_2 Pin=nut2-2
+Added Pin To Net: NetName=Netnut2_2 Pin=rr2-1
+Added Net: Name=Netnut2_2
+Added Pin To Net: NetName=Netnut3_2 Pin=nut3-2
+Added Pin To Net: NetName=Netnut3_2 Pin=rr3-1
+Added Net: Name=Netnut3_2
+Added Pin To Net: NetName=Netnut.1_2 Pin=nut.1-2
+Added Pin To Net: NetName=Netnut.1_2 Pin=rr1-1
+Added Net: Name=Netnut.1_2
+Added Member To Class: ClassName=mega2560 Member=Component Cn1 100nF
+Added Member To Class: ClassName=mega2560 Member=Component Cn2 100nF
+Added Member To Class: ClassName=mega2560 Member=Component Cn3 100nF
+Added Member To Class: ClassName=mega2560 Member=Component nut2 
+Added Member To Class: ClassName=mega2560 Member=Component nut3 
+Added Member To Class: ClassName=mega2560 Member=Component nut.1 
+Added Member To Class: ClassName=mega2560 Member=Component Rb1 10k
+Added Member To Class: ClassName=mega2560 Member=Component Rb2 10k
+Added Member To Class: ClassName=mega2560 Member=Component Rb3 10k
+Added Member To Class: ClassName=mega2560 Member=Component rr1 470
+Added Member To Class: ClassName=mega2560 Member=Component rr2 470
+Added Member To Class: ClassName=mega2560 Member=Component rr3 470
+Added Room: Name=mega2560

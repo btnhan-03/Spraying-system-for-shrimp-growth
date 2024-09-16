@@ -1,0 +1,320 @@
+Added Component: Designator=5v.SPI(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CP2/5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000uF"; VariantName = "[No Variations]"
+Add component (AddParameter ignored because duplicated): Name = "VALUE"; Value = "C?"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CP2/5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Add component (AddParameter ignored because duplicated): Name = "VALUE"; Value = "C?"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CP2/5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000uF"; VariantName = "[No Variations]"
+Add component (AddParameter ignored because duplicated): Name = "VALUE"; Value = "C?"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CP2/5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Add component (AddParameter ignored because duplicated): Name = "VALUE"; Value = "C?"; VariantName = "[No Variations]"
+Added Component: Designator=D1(D5A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1N5408"; VariantName = "[No Variations]"
+Added Component: Designator=D2(D5A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1N5408"; VariantName = "[No Variations]"
+Added Component: Designator=D3(D5A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1N5408"; VariantName = "[No Variations]"
+Added Component: Designator=ESP32(MODULE_ESP32-DEVKITC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC-32D-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC-32D-F/Espressif%20Systems/view-part/4220172/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=I2C(HED4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 4"; VariantName = "[No Variations]"
+Added Component: Designator=IC7805(QTO-220)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "LM7808"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LM7805"; VariantName = "[No Variations]"
+Added Component: Designator=IC7809(QTO-220)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "LM7808"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LM7805"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=luuluong1(HED3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Added Component: Designator=luuluong2(HED3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Added Component: Designator=luuluong3(HED3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Added Component: Designator=mega2560(MODULE_MEGA_PRO_EMBED_CH340G_/_ATMEGA2560)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MEGA_PRO_EMBED_CH340G_/_ATMEGA2560"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=motorPHU(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=motorTONG(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=opto1(OPTO_U)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "TLP5211"; VariantName = "[No Variations]"
+Added Component: Designator=opto2(OPTO_U)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "TLP5211"; VariantName = "[No Variations]"
+Added Component: Designator=opto3(OPTO_U)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "TLP5211"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(QTO-92)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "C2383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(QTO-92)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "C2383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(QTO-92)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "C2383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R33(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R111(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R222(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R333(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=SPI(HED4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 4"; VariantName = "[No Variations]"
+Added Component: Designator=UART(HED4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 4"; VariantName = "[No Variations]"
+Added Component: Designator=Van(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=Vin.12V(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=5v.SPI-1
+Added Pin To Net: NetName=GND Pin=5v.SPI-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=VCC Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=VCC Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=VCC Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=VCC Pin=D3-2
+Added Pin To Net: NetName=GND Pin=ESP32-14
+Added Pin To Net: NetName=VCC Pin=ESP32-19
+Added Pin To Net: NetName=NetESP32_34 Pin=ESP32-34
+Added Pin To Net: NetName=NetESP32_35 Pin=ESP32-35
+Added Pin To Net: NetName=GND Pin=ESP32-38
+Added Pin To Net: NetName=VCC Pin=I2C-1
+Added Pin To Net: NetName=GND Pin=I2C-2
+Added Pin To Net: NetName=NetI2C_3 Pin=I2C-3
+Added Pin To Net: NetName=NetI2C_4 Pin=I2C-4
+Added Pin To Net: NetName=GND Pin=IC7805-2
+Added Pin To Net: NetName=VCC Pin=IC7805-3
+Added Pin To Net: NetName=GND Pin=IC7809-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=GND Pin=LED3-2
+Added Pin To Net: NetName=Netluuluong1_1 Pin=luuluong1-1
+Added Pin To Net: NetName=GND Pin=luuluong1-2
+Added Pin To Net: NetName=VCC Pin=luuluong1-3
+Added Pin To Net: NetName=Netluuluong2_1 Pin=luuluong2-1
+Added Pin To Net: NetName=GND Pin=luuluong2-2
+Added Pin To Net: NetName=VCC Pin=luuluong2-3
+Added Pin To Net: NetName=Netluuluong3_1 Pin=luuluong3-1
+Added Pin To Net: NetName=GND Pin=luuluong3-2
+Added Pin To Net: NetName=VCC Pin=luuluong3-3
+Added Pin To Net: NetName=Netluuluong1_1 Pin=mega2560-A0
+Added Pin To Net: NetName=Netluuluong2_1 Pin=mega2560-A2
+Added Pin To Net: NetName=Netluuluong3_1 Pin=mega2560-A4
+Added Pin To Net: NetName=Netmega2560_D18 Pin=mega2560-D18
+Added Pin To Net: NetName=Netmega2560_D19 Pin=mega2560-D19
+Added Pin To Net: NetName=NetI2C_4 Pin=mega2560-D20
+Added Pin To Net: NetName=NetI2C_3 Pin=mega2560-D21
+Added Pin To Net: NetName=Netmega2560_D32 Pin=mega2560-D32
+Added Pin To Net: NetName=Netmega2560_D34 Pin=mega2560-D34
+Added Pin To Net: NetName=Netmega2560_D36 Pin=mega2560-D36
+Added Pin To Net: NetName=Netmega2560_D50 Pin=mega2560-D50
+Added Pin To Net: NetName=Netmega2560_D51 Pin=mega2560-D51
+Added Pin To Net: NetName=Netmega2560_D52 Pin=mega2560-D52
+Added Pin To Net: NetName=Netmega2560_D53 Pin=mega2560-D53
+Added Pin To Net: NetName=GND Pin=mega2560-GND_1
+Added Pin To Net: NetName=GND Pin=mega2560-GND_2
+Added Pin To Net: NetName=GND Pin=mega2560-GND_3
+Added Pin To Net: NetName=NetESP32_35 Pin=mega2560-RX
+Added Pin To Net: NetName=NetESP32_34 Pin=mega2560-TX
+Added Pin To Net: NetName=VCC Pin=motorPHU-1
+Added Pin To Net: NetName=NetD2_1 Pin=motorPHU-2
+Added Pin To Net: NetName=VCC Pin=motorTONG-1
+Added Pin To Net: NetName=NetD1_1 Pin=motorTONG-2
+Added Pin To Net: NetName=Netopto1_A Pin=opto1-A
+Added Pin To Net: NetName=NetD1_1 Pin=opto1-C
+Added Pin To Net: NetName=GND Pin=opto1-E
+Added Pin To Net: NetName=GND Pin=opto1-K
+Added Pin To Net: NetName=Netopto2_A Pin=opto2-A
+Added Pin To Net: NetName=NetD2_1 Pin=opto2-C
+Added Pin To Net: NetName=GND Pin=opto2-E
+Added Pin To Net: NetName=GND Pin=opto2-K
+Added Pin To Net: NetName=Netopto3_A Pin=opto3-A
+Added Pin To Net: NetName=NetD3_1 Pin=opto3-C
+Added Pin To Net: NetName=GND Pin=opto3-E
+Added Pin To Net: NetName=GND Pin=opto3-K
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=NetD2_1 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=NetD3_1 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=Netmega2560_D32 Pin=R1-1
+Added Pin To Net: NetName=Netopto1_A Pin=R1-2
+Added Pin To Net: NetName=Netmega2560_D34 Pin=R2-1
+Added Pin To Net: NetName=Netopto2_A Pin=R2-2
+Added Pin To Net: NetName=Netopto3_A Pin=R3-1
+Added Pin To Net: NetName=Netmega2560_D36 Pin=R3-2
+Added Pin To Net: NetName=NetD1_1 Pin=R11-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R11-2
+Added Pin To Net: NetName=NetD2_1 Pin=R22-1
+Added Pin To Net: NetName=NetQ2_3 Pin=R22-2
+Added Pin To Net: NetName=NetD3_1 Pin=R33-1
+Added Pin To Net: NetName=NetQ3_3 Pin=R33-2
+Added Pin To Net: NetName=Netmega2560_D32 Pin=R111-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R111-2
+Added Pin To Net: NetName=Netmega2560_D34 Pin=R222-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R222-2
+Added Pin To Net: NetName=Netmega2560_D36 Pin=R333-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R333-2
+Added Pin To Net: NetName=Netmega2560_D50 Pin=SPI-1
+Added Pin To Net: NetName=Netmega2560_D52 Pin=SPI-2
+Added Pin To Net: NetName=Netmega2560_D53 Pin=SPI-3
+Added Pin To Net: NetName=Netmega2560_D51 Pin=SPI-4
+Added Pin To Net: NetName=VCC Pin=UART-1
+Added Pin To Net: NetName=GND Pin=UART-2
+Added Pin To Net: NetName=Netmega2560_D19 Pin=UART-3
+Added Pin To Net: NetName=Netmega2560_D18 Pin=UART-4
+Added Pin To Net: NetName=VCC Pin=Van-1
+Added Pin To Net: NetName=NetD3_1 Pin=Van-2
+Added Pin To Net: NetName=GND Pin=Vin.12V-1
+Added Pin To Net: NetName=+9 Pin=C2-1
+Added Pin To Net: NetName=+9 Pin=IC7809-3
+Added Pin To Net: NetName=+9 Pin=mega2560-VIN_1
+Added Net: Name=+9
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C11-1
+Added Pin To Net: NetName=NetC1_1 Pin=IC7805-1
+Added Pin To Net: NetName=NetC1_1 Pin=IC7809-1
+Added Pin To Net: NetName=NetC1_1 Pin=Vin.12V-2
+Added Net: Name=NetC1_1
+Added Member To Class: ClassName=mega2560 Member=Component 5v.SPI 
+Added Member To Class: ClassName=mega2560 Member=Component C1 
+Added Member To Class: ClassName=mega2560 Member=Component C2 
+Added Member To Class: ClassName=mega2560 Member=Component C11 
+Added Member To Class: ClassName=mega2560 Member=Component C22 
+Added Member To Class: ClassName=mega2560 Member=Component D1 
+Added Member To Class: ClassName=mega2560 Member=Component D2 
+Added Member To Class: ClassName=mega2560 Member=Component D3 
+Added Member To Class: ClassName=mega2560 Member=Component ESP32 
+Added Member To Class: ClassName=mega2560 Member=Component I2C 
+Added Member To Class: ClassName=mega2560 Member=Component IC7805 
+Added Member To Class: ClassName=mega2560 Member=Component IC7809 
+Added Member To Class: ClassName=mega2560 Member=Component LED1 LED
+Added Member To Class: ClassName=mega2560 Member=Component LED2 LED
+Added Member To Class: ClassName=mega2560 Member=Component LED3 LED
+Added Member To Class: ClassName=mega2560 Member=Component luuluong1 
+Added Member To Class: ClassName=mega2560 Member=Component luuluong2 
+Added Member To Class: ClassName=mega2560 Member=Component luuluong3 
+Added Member To Class: ClassName=mega2560 Member=Component mega2560 
+Added Member To Class: ClassName=mega2560 Member=Component motorPHU 
+Added Member To Class: ClassName=mega2560 Member=Component motorTONG 
+Added Member To Class: ClassName=mega2560 Member=Component opto1 
+Added Member To Class: ClassName=mega2560 Member=Component opto2 
+Added Member To Class: ClassName=mega2560 Member=Component opto3 
+Added Member To Class: ClassName=mega2560 Member=Component Q1 C1815
+Added Member To Class: ClassName=mega2560 Member=Component Q2 C1815
+Added Member To Class: ClassName=mega2560 Member=Component Q3 C1815
+Added Member To Class: ClassName=mega2560 Member=Component R1 220
+Added Member To Class: ClassName=mega2560 Member=Component R2 220
+Added Member To Class: ClassName=mega2560 Member=Component R3 220
+Added Member To Class: ClassName=mega2560 Member=Component R11 1k
+Added Member To Class: ClassName=mega2560 Member=Component R22 1k
+Added Member To Class: ClassName=mega2560 Member=Component R33 1k
+Added Member To Class: ClassName=mega2560 Member=Component R111 220
+Added Member To Class: ClassName=mega2560 Member=Component R222 220
+Added Member To Class: ClassName=mega2560 Member=Component R333 220
+Added Member To Class: ClassName=mega2560 Member=Component SPI 
+Added Member To Class: ClassName=mega2560 Member=Component UART 
+Added Member To Class: ClassName=mega2560 Member=Component Van 
+Added Member To Class: ClassName=mega2560 Member=Component Vin.12V 
+Added Room: Name=mega2560

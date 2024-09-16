@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=mega2560 Member=HD00
+Removed Member From Class: ClassName=mega2560 Member=JP2
+Added Pin To Net: NetName=NetESP32_34 Pin=ESP32-34
+Added Pin To Net: NetName=NetESP32_34 Pin=mega2560-TX
+Added Net: Name=NetESP32_34
+Added Pin To Net: NetName=NetESP32_35 Pin=ESP32-35
+Added Pin To Net: NetName=NetESP32_35 Pin=mega2560-RX
+Added Net: Name=NetESP32_35
+Added Room: Name=mega2560

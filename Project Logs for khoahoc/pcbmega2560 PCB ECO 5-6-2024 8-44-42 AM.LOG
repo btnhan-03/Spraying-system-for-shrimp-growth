@@ -1,0 +1,9 @@
+Added Component: Designator=JP2(CON2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 2"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(CON12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 12"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=mega2560 Member=Component JP2
+Added Member To Class: ClassName=mega2560 Member=Component JP? JP12
+Added Room: Name=mega2560
